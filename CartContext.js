@@ -10,8 +10,6 @@ export const CartProvider = ({ children }) => {
     };
 
     const clearCart = () => setCart([]);
-
-    // 💰 Calculate total price
     const total = useMemo(() => {
         return cart.reduce((acc, item) => acc + item.price, 0);
     }, [cart]);
@@ -21,4 +19,5 @@ export const CartProvider = ({ children }) => {
             {children}
         </CartContext.Provider>
     );
+
 };
