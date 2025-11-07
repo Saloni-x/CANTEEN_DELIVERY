@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Veg Burger",
+    "price": 80,
+    "description": "Fresh veg patty with lettuce and mayo"
+    },
+  {
+    "name": "Cheese Burger",
+    "price": 100,
+    "description": "Burger with double cheese and crispy patty"
+     },
+  {
+    "name": "Pizza",
+    "price": 150,
+    "description": "Classic Margherita with extra cheese"
+    
+  },
+  {
+    "name": "French Fries",
+    "price": 60,
+    "description": "Crispy golden fries served with ketchup"
+    
+  },
+  {
+    "name": "Cold Coffee",
+    "price": 70,
+    "description": "Chilled cold coffee topped with vanilla ice cream"
+   
+  },
+  {
+    "name": "Pasta",
+    "price": 120,
+    "description": "Creamy white sauce pasta with herbs"
+  },
+  {
+    "name": "Momos",
+    "price": 90,
+    "description": "Steamed veg momos served with spicy chutney"
+    
+  },
+  {
+    "name": "Samosa",
+    "price": 20,
+    "description": "2 crispy samosas stuffed with potatoes and peas"
+    
+  },
+  {
+    "name": "Chowmein",
+    "price": 80,
+    "description": "Spicy vegetable noodles tossed in sauce"
+   
+  },
+  {
+    "name": "Masala Dosa",
+    "price": 100,
+    "description": "South Indian dosa stuffed with spiced potato filling"
+    
+  }
+]
